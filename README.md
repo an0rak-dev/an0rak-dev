@@ -1,4 +1,4 @@
-### Hello There 👋
+## Hello There 👋
 
 Welcome to my GitHub profile ! My name is Sylvain and I'm a French developer.
 
@@ -11,7 +11,7 @@ the KISS principle, and the high availability of applications.
 Reality indie game developer, trying to push Virtual Reality as far as I can.
 
 
-#### Public Talks
+### 📢 Public Talks
 
 I've given several public talks (in French only) at various conferences, you
 can find them here on YouTube if you want : 
@@ -21,7 +21,7 @@ can find them here on YouTube if you want :
 * SRE, or How I let my production live its own journey (CloudNord 2020) FR (video link soon)
 
 
-#### Social
+### 🔔 Social
 
 If you want to connect with me, you can (of course), follow me here on GitHub,
 or you can also follow on those networks : 
