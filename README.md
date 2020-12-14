@@ -18,7 +18,7 @@ can find them here on YouTube if you want :
 
 * [The Space Conquest is in your pocket (DevFest Nantes 2018) FR](https://www.youtube.com/watch?v=drKAzrT8EsY)
 * [How the GCP helps me save my production at my Grandma's (DevFest Lille 2019) FR](https://www.youtube.com/watch?v=Sl3Pr5GUEoE)
-* SRE, or How I let my production live its own journey (CloudNord 2020) FR (video link soon)
+* [SRE, or How I let my production live its own journey (CloudNord 2020) FR](https://www.youtube.com/watch?v=FKpXr3xhAUc)
 
 
 ### 🔔 Social
