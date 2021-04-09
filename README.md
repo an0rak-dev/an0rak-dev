@@ -13,12 +13,13 @@ Reality indie game developer, trying to push Virtual Reality as far as I can.
 
 ### 📢 Public Talks
 
-I've given several public talks (in French only) at various conferences, you
-can find them here on YouTube if you want : 
+I've given several public talks (in French only for the moment) at various conferences, 
+you can find them here on YouTube if you want : 
 
 * [The Space Conquest is in your pocket (DevFest Nantes 2018) FR](https://www.youtube.com/watch?v=drKAzrT8EsY)
 * [How the GCP helps me save my production at my Grandma's (DevFest Lille 2019) FR](https://www.youtube.com/watch?v=Sl3Pr5GUEoE)
-* [SRE, or How I let my production live its own journey (CloudNord 2020) FR](https://www.youtube.com/watch?v=FKpXr3xhAUc)
+* [SRE, or How I let my production live its own journey (CloudNord 2020) FR](https://www.youtube.com/watch?v=FKpXr3xhAUc) 
+(and [CloudSud 2021 FR](https://www.youtube.com/watch?v=v_4QiUPg35w) )
 
 
 ### 🔔 Social
