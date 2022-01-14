@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile ! My name is Sylvain and I'm a French developer.
 
-🌞 I'm currently working as a Cloud Architect at [Sfeir](https://sfeir.com/en) 
-and I'm more speciliazed in SRE and application's resiliency. In my day-to-day 
-work, I also try to put again the user in the center of each apps, by pushing 
-the KISS principle, and the high availability of applications.
+🌞 I'm currently working as a Cloud Engineer at [Artifakt](https://www.artifakt.com) 
+and I'm more speciliazed in Lowlevel development and application's resiliency. In 
+my day-to-day work, I also try to put again the user in the center of each apps, by 
+pushing the KISS principle, and the high availability of applications.
 
 🌛 By night (and weekends), I'm still a French developer, but I become a Virtual 
 Reality indie game developer, trying to push Virtual Reality as far as I can.
