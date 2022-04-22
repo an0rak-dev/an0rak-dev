@@ -4,11 +4,11 @@ Welcome to my GitHub profile ! My name is Sylvain and I'm a French developer.
 
 🌞 I'm currently working as a Cloud Engineer at [Artifakt](https://www.artifakt.com) 
 and I'm more speciliazed in Lowlevel development and application's resiliency. In 
-my day-to-day work, I also try to put again the user in the center of each apps, by 
-pushing the KISS principle, and the high availability of applications.
-
+my day-to-day work, I manage Kubernetes clusters, handle cloud providers, and 
+updates backend services.
 🌛 By night (and weekends), I'm still a French developer, but I become a Virtual 
-Reality indie game developer, trying to push Virtual Reality as far as I can.
+Reality indie game developer, trying to push Virtual Reality as far as I can, either
+using UnrealEngine, WebXR or OpenXR.
 
 
 ### 📢 Public Talks
@@ -20,6 +20,7 @@ you can find them here on YouTube if you want :
 * [How the GCP helps me save my production at my Grandma's (DevFest Lille 2019) FR](https://www.youtube.com/watch?v=Sl3Pr5GUEoE)
 * [SRE, or How I let my production live its own journey (CloudNord 2020) FR](https://www.youtube.com/watch?v=FKpXr3xhAUc) 
 (and [CloudSud 2021 FR](https://www.youtube.com/watch?v=v_4QiUPg35w) )
+* [Initiation to 3D, when you only draw stickmen](https://github.com/an0rak-dev/init-to-3d) (No video, regional BBL)
 
 
 ### 🔔 Social
