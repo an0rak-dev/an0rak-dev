@@ -6,6 +6,7 @@ Welcome to my GitHub profile ! My name is Sylvain and I'm a French developer.
 and I'm more speciliazed in Lowlevel development and application's resiliency. In 
 my day-to-day work, I manage Kubernetes clusters, handle cloud providers, and 
 updates backend services.
+
 🌛 By night (and weekends), I'm still a French developer, but I become a Virtual 
 Reality indie game developer, trying to push Virtual Reality as far as I can, either
 using UnrealEngine, WebXR or OpenXR.
