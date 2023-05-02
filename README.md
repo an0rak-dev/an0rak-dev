@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile ! My name is Sylvain and I'm a French developer.
 
-🌞 I'm currently working as a Cloud Engineer at [Artifakt](https://www.artifakt.com) 
+🌞 I'm currently working as a CI/CD Engineer at [Shadow](https://shadow.tech)
 and I'm more speciliazed in Lowlevel development and application's resiliency. In 
-my day-to-day work, I manage Kubernetes clusters, handle cloud providers, and 
-updates backend services.
+my day-to-day work, I manage CI/CD runners, mirrors and develop pipeline components
+for various teams (Network, Storage, Virtualization, System...).
 
 🌛 By night (and weekends), I'm still a French developer, but I become a Virtual 
 Reality indie game developer, trying to push Virtual Reality as far as I can, either
@@ -31,3 +31,4 @@ or you can also follow on those networks :
 
 * [Twitter](https://twitter.com/an0rak_dev)
 * [LinkedIn](https://www.linkedin.com/in/sylvain-nieuwlandt/)
+* [GitHub](https://github.com/an0rak-dev) <-- Look 'ma, recursion !
