@@ -1,3 +1,3 @@
 <picture>
-    <img href="./graphs/base.svg" align="center" width="100%">
+    <img src="./graphs/base.svg" align="center" width="100%">
 </picture>
