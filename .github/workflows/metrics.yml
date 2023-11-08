@@ -7,34 +7,53 @@ on:
     schedule:
         - cron: 0 * * * *
 
+permissions:
+    contents: write
+
+env:
+    TZ: Europe/Paris
+    GH_USER: an0rak-dev
+
 jobs:
     base:
         runs-on: ubuntu-latest
-        permissions:
-            contents: write
         steps:
             - uses: lowlighter/metrics@v3.34
               with:
                 token: ${{ secrets.METRICS_PAT }}
                 filename: graphs/base.svg
                 template: classic
-                user: an0rak-dev
-                config_timezone: Europe/Paris
+                user: ${{ env.GH_USER }}
+                config_timezone: ${{ env.TZ }}
+                base: header
 
     facts:
         runs-on: ubuntu-latest
-        permissions:
-            contents: write
         steps:
             - uses: lowlighter/metrics@v3.34
               with:
                 token: ${{ secrets.METRICS_PAT }}
                 filename: graphs/facts.svg
-                user: an0rak-dev
-                config_timezone: Europe/Paris
+                user: ${{ env.GH_USER }}
+                config_timezone: ${{ env.TZ }}
                 base: ""
                 plugin_habits: yes
                 plugin_habits_facts: yes
                 plugin_habits_charts: no
                 plugin_habits_days: 30
                 plugin_habits_from: 1000
+    
+    achievements:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: lowlighter/metrics@v3.34
+              with:
+                token: ${{ secrets.METRICS_PAT }}
+                filename: graphs/achievements.svg
+                user: ${{ env.GH_USER }}
+                config_timezone: ${{ env.TZ }}
+                base: ""
+                plugin_achievements: yes
+                plugin_achievements_threshold: X
+                plugin_achievements_secrets: yes
+                plugin_achievements_display: compact
