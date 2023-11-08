@@ -26,6 +26,7 @@ jobs:
                 user: ${{ env.GH_USER }}
                 config_timezone: ${{ env.TZ }}
                 base: header
+                plugin_introduction: yes
 
     facts:
         runs-on: ubuntu-latest
@@ -57,3 +58,31 @@ jobs:
                 plugin_achievements_threshold: X
                 plugin_achievements_secrets: yes
                 plugin_achievements_display: compact
+
+    interests:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: lowlighter/metrics@v3.34
+              with:
+                token: ${{ secrets.METRICS_PAT }}
+                filename: graphs/interests.svg
+                user: ${{ env.GH_USER }}
+                config_timezone: ${{ env.TZ }}
+                base: ""
+                plugin_topics: yes
+                plugin_topics_mode: labels
+                plugin_topics_sort: random
+                plugin_topics_limit: 20
+
+    languages:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: lowlighter/metrics@v3.34
+              with:
+                token: ${{ secrets.METRICS_PAT }}
+                filename: graphs/languages.svg
+                user: ${{ env.GH_USER }}
+                config_timezone: ${{ env.TZ }}
+                base: ""
+                plugin_languages: yes
+                plugin_languages_details: percentage
