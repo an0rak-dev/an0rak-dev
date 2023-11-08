@@ -1,0 +1,22 @@
+name: Generate personal metrics
+
+on:
+    pull_request: 
+        branches-ignore: 
+            - main
+    schedule:
+        - cron: 0 * * * *
+
+jobs:
+    base:
+        runs-on: ubuntu:latest
+        permissions:
+            contents: write
+        steps:
+            - uses: lowlighter/metrics@v3.34
+              with:
+                token: ${{ secrets.METRICS_PAT }}
+                filename: graphs/base.svg
+                template: classic
+                user: an0rak-dev
+                config_timezone: Europe/Paris
