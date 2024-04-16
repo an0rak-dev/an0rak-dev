@@ -16,17 +16,17 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="Android is an operating system built by Google designed for mobile devices.">android</div>
-                            <div class="label" title="A game engine is a software framework used to develop and create video games.">game engine</div>
-                            <div class="label" title="Windows is Microsoft&amp;apos;s GUI-based operating system.">windows</div>
-                            <div class="label" title="C is a general purpose programming language that first appeared in 1972.">c</div>
-                            <div class="label" title="OpenGL is a software interface that allows a programmer to communicate with graphics hardware.">opengl</div>
-                            <div class="label" title="3D refers to the use of three-dimensional graphics, modeling, and animation in various industries.">3d</div>
                             <div class="label" title="Unreal Engine is used to create awesome games, and experiences for PC, mobile, console, VR, and AR.">unreal engine</div>
                             <div class="label" title="macOS is Apple&amp;apos;s operating system.">macos</div>
-                            <div class="label" title="iOS is the operating system for Apple&amp;apos;s mobile products.">ios</div>
-                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
+                            <div class="label" title="C is a general purpose programming language that first appeared in 1972.">c</div>
+                            <div class="label" title="Windows is Microsoft&amp;apos;s GUI-based operating system.">windows</div>
+                            <div class="label" title="A game engine is a software framework used to develop and create video games.">game engine</div>
+                            <div class="label" title="Android is an operating system built by Google designed for mobile devices.">android</div>
                             <div class="label" title="Virtual reality is an artificial environment displayed through digital means.">virtual reality</div>
+                            <div class="label" title="OpenGL is a software interface that allows a programmer to communicate with graphics hardware.">opengl</div>
+                            <div class="label" title="Python is a dynamically typed programming language.">python</div>
+                            <div class="label" title="iOS is the operating system for Apple&amp;apos;s mobile products.">ios</div>
+                            <div class="label" title="3D refers to the use of three-dimensional graphics, modeling, and animation in various industries.">3d</div>
                         </div>
                     </section>
                 </div>
